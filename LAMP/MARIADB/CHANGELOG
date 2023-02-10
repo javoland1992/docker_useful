@@ -1,0 +1,12 @@
+# Changelog
+## [Unreleased]
+
+### To Do
+- Configuring to accept connection from anywhere, using environment variables
+- Creating an admin user
+
+### Added 
+
+- Dockerfile to create MariaDB's image and container  
+
+### Fixed
